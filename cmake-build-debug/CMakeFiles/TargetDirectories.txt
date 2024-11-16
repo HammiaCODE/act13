@@ -1,0 +1,3 @@
+C:/Users/hanes/Desktop/UNI HAM/SAGA DE C++/PeopleARCHIVE/cmake-build-debug/CMakeFiles/PeopleARCHIVE.dir
+C:/Users/hanes/Desktop/UNI HAM/SAGA DE C++/PeopleARCHIVE/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hanes/Desktop/UNI HAM/SAGA DE C++/PeopleARCHIVE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
